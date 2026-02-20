@@ -51,7 +51,6 @@
 
 * 🧑‍💻 **VS Code** – Code editor
 * 🔄 **Git & GitHub** – Version control & collaboration
-* 🐧 **Linux** – Development & deployment environment
 
 ---
 
