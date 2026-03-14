@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Full Stack Developer | Web & Mobile Application Builder</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;React+%7C+Next.js+%7C+React+Native;Backend+with+PHP+%26+Express;Always+Learning+New+Technologies" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;React+%7C+React+Native;Backend+with+PHP+%26+Express;Always+Learning+New+Technologies" />
 </p>
 
 ---
@@ -26,7 +26,6 @@
 * 🎨 **CSS3** – Responsive design, layouts, and animations
 * 🟨 **JavaScript** – Dynamic and interactive user interfaces
 * ⚛️ **React.js** – Component-based UI development
-* ⏭️ **Next.js** – Server-side rendering & optimized React apps
 * 📱 **React Native** – Cross-platform mobile app development
 
 ### ⚙️ Backend Technologies
